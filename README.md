@@ -62,5 +62,6 @@ cd ..
 cd client
 npm install
 cd ..
+npm install concurrently --save-dev
 npm start
 
