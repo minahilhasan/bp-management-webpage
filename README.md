@@ -8,13 +8,12 @@ This project features a modern React frontend, an Express.js backend with SQLite
 
 ## Important!!!!
 Before running the webpage create an .env file in the server folder and copy this in the .env file:
-PORT=5000
-JWT_SECRET=A123B456C
-JWT_EXPIRES_IN=7d
-DB_FILE=./data.sqlite
-EMAIL_USER=bpportalsystem@gmail.com
-EMAIL_PASS=ddwi gncj iqys aogv
-)
+- PORT=5000
+- JWT_SECRET=A123B456C
+- JWT_EXPIRES_IN=7d
+- DB_FILE=./data.sqlite
+- EMAIL_USER=bpportalsystem@gmail.com
+- EMAIL_PASS=ddwi gncj iqys aogv
 
 ## 🚀 Features
 
