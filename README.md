@@ -6,6 +6,16 @@ This project features a modern React frontend, an Express.js backend with SQLite
 
 ---
 
+## Important!!!!
+Before running the webpage create an .env file in the server folder and copy this in the .env file:
+PORT=5000
+JWT_SECRET=A123B456C
+JWT_EXPIRES_IN=7d
+DB_FILE=./data.sqlite
+EMAIL_USER=bpportalsystem@gmail.com
+EMAIL_PASS=ddwi gncj iqys aogv
+)
+
 ## 🚀 Features
 
 ### 💉 Blood Pressure Tracking
@@ -58,14 +68,6 @@ git clone https://github.com/minahilhasan/bp-management-system.git
 cd bp-management-app
 cd server
 npm install
-(now create an .env file in the server file and copy this in the folder:
-PORT=5000
-JWT_SECRET=A123B456C
-JWT_EXPIRES_IN=7d
-DB_FILE=./data.sqlite
-EMAIL_USER=bpportalsystem@gmail.com
-EMAIL_PASS=ddwi gncj iqys aogv
-)
 cd ..
 cd client
 npm install
