@@ -44,7 +44,7 @@ Before running the webpage create an .env file in the server folder and copy thi
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- React.js (with Vite)
+- React.js
 - React Router DOM
 - Tailwind CSS
 - Lucide React Icons
